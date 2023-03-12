@@ -1,3 +1,6 @@
+# Home page
+![screencapture-localhost-3000-2023-03-12-13_59_49](https://user-images.githubusercontent.com/58651025/224533382-c85d2b58-2a4a-4b8d-ab8e-064829eaf272.png)
+
 ![screencapture-localhost-3000-2023-03-12-13_53_15](https://user-images.githubusercontent.com/58651025/224533136-a1e3dcd4-7a68-47a6-986d-bfe625d7a4d5.png)
 
 
