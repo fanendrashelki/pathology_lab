@@ -5,7 +5,6 @@
 
 
 
-![screencapture-localhost-3000-2023-03-12-13_54_10](https://user-images.githubusercontent.com/58651025/224533147-528f71b8-6b6f-4902-8c5f-5555a283b396.png)
 ![screencapture-localhost-3000-Patient-list-2023-03-12-13_53_26](https://user-images.githubusercontent.com/58651025/224533143-34769324-ab8a-4cb7-b429-c3785b9f0741.png)
 ![screencapture-localhost-3000-Patient-list-2023-03-12-13_54_23](https://user-images.githubusercontent.com/58651025/224533159-41d70656-6a67-4508-a917-49e521821494.png)
 
